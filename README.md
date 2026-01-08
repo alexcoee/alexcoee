@@ -1,6 +1,6 @@
-# 𝘼𝙡𝙚𝙭
+# I'm 𝘼𝙡𝙚𝙭
 
-**𝙍𝙚𝙙 𝙏𝙚𝙖𝙢 𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 | 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 |**
+**𝙍𝙚𝙙 𝙏𝙚𝙖𝙢 | 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 |**
 
 ---
 
@@ -24,3 +24,17 @@ Brazil · Information Technology · Systems Analysis and Development
 </p>
 
 ---
+
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU_USUARIO">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+  </a>
+  <a href="https://twitter.com/SEU_USUARIO">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30"/>
+  </a>
+
+  ---
