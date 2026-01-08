@@ -21,6 +21,7 @@ Brazil · Information Technology · Systems Analysis and Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/docker-original.svg" height="34"/>
 </p>
 
 ---
