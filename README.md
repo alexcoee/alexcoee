@@ -9,16 +9,6 @@ Building skills for Red Team operations, backend systems and web security.
 
 Brazil · Information Technology · Systems Analysis and Development
 
----
-
-<div align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32"/></a>
-</div>
-
----
-
 ### Programming Languages & Tools
 
 <p>
