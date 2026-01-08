@@ -25,16 +25,3 @@ Brazil · Information Technology · Systems Analysis and Development
 
 ---
 
-
-<div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
-  </a>
-  <a href="https://linkedin.com/in/SEU_USUARIO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
-  </a>
-  <a href="https://twitter.com/SEU_USUARIO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30"/>
-  </a>
-
-  ---
