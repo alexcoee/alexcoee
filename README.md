@@ -11,6 +11,14 @@ Brazil · Information Technology · Systems Analysis and Development
 
 ---
 
+<div align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32"/></a>
+</div>
+
+---
+
 ### Programming Languages & Tools
 
 <p>
@@ -25,12 +33,4 @@ Brazil · Information Technology · Systems Analysis and Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>
 </p>
 
-Kali Linux · Linux · Bash · Python · JavaScript · HTML · CSS · Node.js · SQL · MySQL · PostgreSQL · Nmap · Metasploit · Burp Suite · SQLmap · Gobuster · Hydra
-
 ---
-
-<div align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32"/></a>
-</div>
