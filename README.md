@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">RedTeam | Segurança Cibernética | Marketing Digital</h5>
+<h4 align="left">RedTeam | Segurança Cibernética | Marketing Digital</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">Estudante de tecnologia focado em segurança ofensiva, desenvolvimento de sistemas e simulação. Desenvolvendo habilidades para operações do Red Team, sistemas de backend e segurança web.<br><br><br>Brasil · Segurança da Informação · Análise e Desenvolvimento de Sistemas</h6>
+<h5 align="left">Estudante de tecnologia focado em segurança ofensiva, desenvolvimento de sistemas e simulação. Desenvolvendo habilidades para operações do Red Team, sistemas de backend e segurança web.<br><br><br>Brasil · Segurança da Informação · Análise e Desenvolvimento de Sistemas</h5>
 
 ###
 
@@ -46,15 +46,9 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/2" alt="Medium post 3"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/0lr16vaidrvl8mubhmbyjv10p">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0lr16vaidrvl8mubhmbyjv10p&count=4" alt="Spotify recently played"  />
   </a>
 </div>
 
