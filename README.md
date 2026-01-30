@@ -40,16 +40,4 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-###
 
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/0lr16vaidrvl8mubhmbyjv10p">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0lr16vaidrvl8mubhmbyjv10p&count=4" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
