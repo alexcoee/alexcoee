@@ -1,28 +1,61 @@
-# I'm Alex
+<h2 align="left">Olá! Sou Alex</h2>
 
-**𝙍𝙚𝙙 𝙏𝙚𝙖𝙢 | 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 |**
+###
 
----
+<h5 align="left">RedTeam | Segurança Cibernética | Marketing Digital</h5>
 
-Technology student focused on offensive security, systems development and adversary simulation.  
-Building skills for Red Team operations, backend systems and web security.
+###
 
-Brazil · Information Technology · Systems Analysis and Development
+<h2 align="left"></h2>
 
-### Programming Languages & Tools
+###
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>
+<h6 align="left">Estudante de tecnologia focado em segurança ofensiva, desenvolvimento de sistemas e simulação. Desenvolvendo habilidades para operações do Red Team, sistemas de backend e segurança web.<br><br><br>Brasil · Segurança da Informação · Análise e Desenvolvimento de Sistemas</h6>
 
-</p>
+###
 
----
+<h3 align="left">Linguagens e ferramentas de programação</h3>
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@alexcoee/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
