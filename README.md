@@ -46,15 +46,5 @@ Brasil · Análise e Desenvolvimento de Sistemas
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
-###
-
-<h3 align="left">💡 Sobre mim</h3>
-
-<ul>
-  <li>💻 Focado em iniciar carreira como desenvolvedor (front-end ou back-end)</li>
-  <li>🔐 Conhecimentos em segurança da informação aplicados ao desenvolvimento</li>
-  <li>📚 Em constante aprendizado e evolução</li>
-  <li>🚀 Interesse em construir projetos práticos e resolver problemas reais</li>
-</ul>
 
 ###
