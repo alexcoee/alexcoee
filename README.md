@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sou Alex 👨‍💻</h2>
+<h2 align="left">Olá! Sou Alex </h2>
 
 ###
 
@@ -20,7 +20,7 @@ Brasil · Análise e Desenvolvimento de Sistemas
 
 ###
 
-<h3 align="left">🚀 Tecnologias e Ferramentas</h3>
+<h3 align="left">Tecnologias e Ferramentas</h3>
 
 ###
 
